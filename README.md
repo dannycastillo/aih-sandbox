@@ -46,6 +46,13 @@ reference page for `aih` at `docs/index.html`.
 `aih status` shows active trunks and run state at any point. Logs land in
 `.git/ai-harness/log/`.
 
+
+## Next Steps
+
+Go use aih on a real project! Or have your favorite AI agent build a new set of todos in this project. AI Harness works well with interactive agents. I use Claude Code to create new trunks, retire trunks, manage and monitor aih runs, and even push PRs/MRs for me to review parked todos.
+
+Have fun!
+
 ## License
 
 [MIT](LICENSE)
